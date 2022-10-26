@@ -1,7 +1,11 @@
 rencana jadi orang baik
 - rajin ibadah
-* rajin sholat
-* rajin ngaji
+  * rajin sholat
+    ^ sholat ke masjid
+    ^ sholat tepat waktu
+  * rajin ngaji
 - berbakti kepada ortu
+  ^ taat pada ortu
 - praktek
 - belajar
+- banyak bertanya
